@@ -1,2 +1,2 @@
-# rust_fundamentals_plugralsight
+# Rust Fundamentals Plugralsight
 Code examples based on "Rust Fundamentals" Pluralsight course
